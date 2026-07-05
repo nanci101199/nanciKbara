@@ -1,0 +1,5 @@
+node_modules
+
+.env (important for secrets)
+
+log.txt
